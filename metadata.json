@@ -1,0 +1,6 @@
+{
+  "name": "Safe Her",
+  "description": "Women Safety & Emergency Network featuring instant SOS, live location tracking, an expert AI safety companion, loud local sirens, safety check-in countdown timers, and local contact persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
